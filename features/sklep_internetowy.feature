@@ -29,4 +29,4 @@ Zakładając ze klient zakupił album
 Jezeli zamówienie zostało przyjęte do realizacji
 Oraz klient przejdzie na swoje konto na stronie sklepu
 Wtedy klient będzie mógł kliknąć w przycisk "Zamówienia biące"
-Oraz sprawdzić szczegóły zamówienia.
+Oraz sprawdzić szczegóły zamówienia. 
